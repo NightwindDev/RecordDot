@@ -1,0 +1,10 @@
+Package: com.nightwind.recorddot
+Name: RecordDot
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Make your screen recording pill a dot.
+Maintainer: Nightwind
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://github.com/NightwindDev/RecordDot/blob/main/recorddotprefs/Resources/icon@3.png?raw=true
